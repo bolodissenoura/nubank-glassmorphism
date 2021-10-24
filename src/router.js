@@ -1,13 +1,18 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router';
 
-import Profissional from "./views/Login.vue";
-
+import Login from "./views/Login.vue";
+import Home from "./views/Home.vue";
 
 const routes = [
     {
         path: '/login',
         name: 'login',
         component: Login
+    },
+    {
+        path: '/',
+        name: 'home',
+        component: Home
     },
 
 ];

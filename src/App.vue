@@ -3,13 +3,9 @@
 </template>
 
 <script>
-  import Profissional from './views/Profissional.vue'
-  export default {
-    name: 'App',
-    components: {
-      Profissional
-    }
 
+  export default {
+    name: 'App'
   }
 </script>
  
