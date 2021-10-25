@@ -9,7 +9,9 @@
             <h6 class="primary-text">Daniel Lima</h6>
             <h6 class="secondary-text">Frontend Developer</h6>
         </div>
-        <button class="primary-text">View Profile</button>
+         
+        
+         <button class="primary-text">Funcionário</button>
         <div class="details">
             <div class="rating">
                 <h6 class="primary-text"> 86% </h6>
@@ -24,6 +26,7 @@
 </template>
 
 <script>
+
 export default {
   name: 'Login'
 }
@@ -52,11 +55,22 @@ export default {
     -webkit-box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
     box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
     font-family: 'Poppins',sans-serif;
+    
+}
+.primary-text{
+    color: #d5d5d5;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    margin: 5px 0;
+}
+.card:hover{
+    transform: matrix(1, -0.02, 0, 1, 0, 1);
 }
 .corda{
   width: 30px;
   height: 300px;
-  background-color: black;
+  background-color: rgb(74, 13, 99);
   -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
 
@@ -105,12 +119,8 @@ h6{
     position: absolute;
     top: 160px;
 }
-.primary-text{
-    color: #d5d5d5;
-    font-size: 16px;
-    font-weight: 600;
-    letter-spacing: 0.7px;
-    margin: 5px 0;
+.input-name{
+    margin: 210px 60px;
 }
 .secondary-text{
     color: #c0c0c0;
