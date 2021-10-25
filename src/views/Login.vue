@@ -7,19 +7,19 @@
         </div>
         <div class="desc">
             <h6 class="primary-text">Daniel Lima</h6>
-            <h6 class="secondary-text">Frontend Developer</h6>
+            <h6 class="secondary-text">Desenvolvedor</h6>
         </div>
          
         
-         <button class="primary-text">Funcionário</button>
+         <button class="primary-text">Frontend Pleno</button>
         <div class="details">
             <div class="rating">
-                <h6 class="primary-text"> 86% </h6>
-                <h6 class="secondary-text"> Rating </h6>
+                <h6 class="primary-text"> 15 </h6>
+                <h6 class="secondary-text"> Projetos </h6>
             </div>
             <div class="activity">
                 <h6 class="primary-text"> 92% </h6>
-                <h6 class="secondary-text"> Activity </h6>
+                <h6 class="secondary-text"> Ativo </h6>
             </div>
         </div>
 </div>
