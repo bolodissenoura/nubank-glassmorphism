@@ -7,7 +7,7 @@
         </div>
         <div class="desc">
             <h6 class="primary-text">Daniel Lima</h6>
-            <h6 class="secondary-text">Desenvolvedor</h6>
+            <h6 class="secondary-text">Desenvolvedor Nubank</h6>
         </div>
          
         
