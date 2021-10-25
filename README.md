@@ -1,4 +1,4 @@
-# login-animado
+# Nubank Glassmorphism
 
 ## Project setup
 ```
